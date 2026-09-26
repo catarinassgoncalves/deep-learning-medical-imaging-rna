@@ -1,0 +1,9 @@
+torch
+torchvision
+medmnist
+scikit-learn
+matplotlib
+numpy
+pandas
+openpyxl
+optuna
